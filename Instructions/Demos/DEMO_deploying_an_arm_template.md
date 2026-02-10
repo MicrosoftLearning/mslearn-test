@@ -1,7 +1,10 @@
 ---
-demo:
-    title: 'Demo: Deploying an ARM Template'
-    module: 'Module 1: Exploring Azure Resource Manager'
+lab:
+  title: 'Demo: Deploying an ARM Template'
+  description: 1. Quisque dictum convallis metus, vitae vestibulum turpis dapibus
+    non.
+  duration: 34 minutes
+  level: 300
 ---
 
 # Demo: Deploying an ARM Template
