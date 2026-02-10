@@ -1,3 +1,13 @@
+---
+lab:
+  title: Exercise title <!-- match title in metadata above (and Learn Exercise unit
+    and ILT slide)-->
+  description: In this exercise you will <!-- provide a description of what they'll
+    do and why it;s important -->
+  duration: 72 minutes
+  level: 100
+---
+
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.
 You can delete the module and edit index.md in the root of the repo to customize the display so that only the exercises are listed
