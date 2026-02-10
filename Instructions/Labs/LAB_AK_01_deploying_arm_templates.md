@@ -1,8 +1,11 @@
 ---
 lab:
-    title: 'Lab: Deploying Azure Resource Manager templates'
-    type: 'Answer Key'
-    module: 'Module 1: Exploring Azure Resource Manager'
+  title: 'Lab: Deploying Azure Resource Manager templates'
+  type: Answer Key
+  module: 'Module 1: Exploring Azure Resource Manager'
+  description: 1. Integer dolor purus, gravida eu sem id, efficitur aliquet neque.
+  duration: 50 minutes
+  level: 200
 ---
 
 # Lab: Deploying Azure Resource Manager templates
