@@ -6,6 +6,7 @@ lab:
     do and why it;s important -->
   duration: 72 minutes
   level: 100
+  islab: true
 ---
 
 <!--
