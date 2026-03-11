@@ -11,6 +11,10 @@ lab:
     varius, cursus odio rhoncus, placerat erat. Suspendisse nec metus est.
   duration: 5 minutes
   level: 200
+  islab: true
+  primarytopics:
+  - Azure
+  - Azure Resource Manager
 ---
 
 # Lab: Deploying Azure Resource Manager templates
