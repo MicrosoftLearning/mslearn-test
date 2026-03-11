@@ -6,6 +6,10 @@ lab:
   description: 1. Integer dolor purus, gravida eu sem id, efficitur aliquet neque.
   duration: 50 minutes
   level: 200
+  islab: true
+  primarytopics:
+  - Azure
+  - Azure Resource Manager
 ---
 
 # Lab: Deploying Azure Resource Manager templates
